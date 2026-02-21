@@ -90,11 +90,8 @@ A premium, state-of-the-art Inventory Management System built with the MERN stac
 - [Backend API Guide](./backend/README.md)
 - [Frontend Guide](./frontend/README.md)
 
----
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📄 License
 
